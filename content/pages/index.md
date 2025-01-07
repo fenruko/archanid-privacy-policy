@@ -15,8 +15,6 @@ sections:
     backgroundSize: full
     title: this is the privacy policy of the archanid bot
     subtitle: >-
-      Here’s a sample Privacy Policy for a Discord bot named **Archanid**.###
-      Privacy Policy for Archanid Discord BotEffective Date: [Insert Date]####
       1. Introduction  Archanid ("the bot") is a Discord bot designed to enhance
       your server's experience. We value your privacy and are committed to
       protecting your personal data. This Privacy Policy explains how Archanid
