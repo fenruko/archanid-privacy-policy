@@ -50,7 +50,7 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: right
       text:
         textAlign: left
       actions:
