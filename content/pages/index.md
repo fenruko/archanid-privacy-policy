@@ -14,7 +14,24 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: this is the privacy policy of the archanid bot
-    subtitle: ''
+    subtitle: >-
+      Here’s a sample Privacy Policy for a Discord bot named **Archanid**.###
+      Privacy Policy for Archanid Discord BotEffective Date: [Insert Date]####
+      1. Introduction  Archanid ("the bot") is a Discord bot designed to enhance
+      your server's experience. We value your privacy and are committed to
+      protecting your personal data. This Privacy Policy explains how Archanid
+      collects, uses, and stores information when you use the bot.---#### 2.
+      Data Collection  Archanid may collect and process the following data:-
+      **User IDs and Server IDs**: For identifying users and servers to execute
+      commands or provide features.- **Message Content**: Temporarily processed
+      for command execution but not stored unless explicitly required for
+      features (e.g., logging, custom responses).- **Bot Interaction Data**:
+      Command usage and related metrics to improve functionality and
+      performance.Archanid does not intentionally collect sensitive personal
+      data. If such data is shared via Discord, it remains subject to Discord’s
+      privacy policy.---#### 3. Data Usage  The data collected by Archanid is
+      used solely for the purpose of:- Executing commands.- Providing
+      bot-related features and services.- Monitoring
     styles:
       self:
         height: auto
