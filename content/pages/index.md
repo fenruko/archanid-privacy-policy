@@ -53,6 +53,7 @@ sections:
         textAlign: left
         fontWeight: 400
         fontStyle: italic
+        textDecoration: underline
       text:
         textAlign: left
       actions:
