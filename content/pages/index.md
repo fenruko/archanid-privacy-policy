@@ -52,6 +52,7 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 400
+        fontStyle: italic
       text:
         textAlign: left
       actions:
