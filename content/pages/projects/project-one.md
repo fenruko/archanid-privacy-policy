@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: the archanid bot
 colors: colors-a
 date: '2025-10-15'
 client: Awesome client
