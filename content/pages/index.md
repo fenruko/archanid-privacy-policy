@@ -27,9 +27,9 @@ sections:
       Command usage and related metrics to improve functionality and
       performance.Archanid does not intentionally collect sensitive personal
       data. If such data is shared via Discord, it remains subject to Discord’s
-      privacy policy.---#### 3. Data Usage  The data collected by Archanid is
+      privacy policy.---####    3. Data Usage  The data collected by Archanid is
       used solely for the purpose of:- Executing commands.- Providing
-      bot-related features and services.- Monitoring
+      bot-related features and services.- Monitoring       
     styles:
       self:
         height: auto
